@@ -1,4 +1,5 @@
 # Better Container GUI
+![Images](https://cdn.discordapp.com/attachments/365525375801098242/1248401880934121482/inventory_animation_1.gif?ex=6663885a&is=666236da&hm=c701ca898163ebfaa8ee37275e9f90c0bda032d504ba78608f02bcd831013a03&)
 BetterConttainerGUI is a vanilla core shader resourcepack that adds more padding around the Minecraft container GUI, allowing for more creative freedom. This pack also has the option for animated containers.
 This pack does require you to work in the same resolution as vanilla Minecraft, so this doesn't work with high-res resourcepacks.
 
