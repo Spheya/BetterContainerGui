@@ -13,6 +13,6 @@ In the top right corner of the texture, you put a pixel with some specific value
 
  After that, put the container at the center of the texture, you can just reload the resourcepack to see if you positioned it correctly.
 
- If your container is animated, you can increase the texture size, the shaders will read the animation from left to right, top to bottom.
+ If your container is animated, you can increase the texture size to fit the extra frames, the shaders will read the animation from left to right, top to bottom, each frame has to be 256x256.
 
  If you need an example you can look at both the `inventory.png` and `inventory_without_animation.png` textures.
